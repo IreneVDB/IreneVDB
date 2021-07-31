@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IreneVDB
-- 👀 I’m interested in collecting, analyzing and visualizing data about physiological and environmental factors
-- 🌱 I’m currently learning interactive data visualizations (Plotly and htmlwidgets) and web apps (Shiny)
+- 👀 I’m passionate about collecting, analyzing and visualizing physiological and environmental data
+- 🌱 I make interactive data visualizations (e.g., Plotly, htmlwidgets) and web apps (Shiny) using R
+- 🤝 I'm available for freelance datavisualization projects
 - 📫 You can find me on: https://jebentwatjemeet.nl
-
 
 <!---
 IreneVDB/IreneVDB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
